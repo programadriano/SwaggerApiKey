@@ -1,4 +1,4 @@
-# .NET Console
+# .NET 5 SwaggerApiKey
 
 Repositório contendo um exemplo prático de como criar segurança em uma API desenvolvida em .NET 5 utilizando o conceito de chave no header. 
 
